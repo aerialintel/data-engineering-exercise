@@ -37,7 +37,7 @@ https://e4ftl01.cr.usgs.gov/{source}/{product}/{date}/{file}
     - files that were successfully downloaded
     - downloads that may have failed
 - The USGS server may rate limit you by returning empty directories. You should handle download errors in your solution.
-- If you choose to use python, you might want to look into the `pymodis` package.
+- If you choose to use python, you might want to look into the [`pymodis` package](https://pypi.python.org/pypi/pyModis).
 
 ### Submission
 
