@@ -1,0 +1,10 @@
+{
+    "_comment": "Keys are data source, values are a list of products we want to download for each source",
+    "MOLA": [
+        "MYD09GA.006",
+        "MYD09GQ.006"
+    ],
+    "MOTA": [
+        "MCD15A3H.006"
+    ]
+}

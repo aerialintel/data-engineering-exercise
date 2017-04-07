@@ -1,0 +1,26 @@
+{
+    "_comment": "Keys are ISO-2 codes for countries, values are a list of times we want to download for each country.",
+    "CA": [
+        "h12v03",
+        "h11v03",
+        "h11v04",
+        "h10v04",
+        "h13v02"
+    ],
+    "US": [
+        "h08v04",
+        "h08v05",
+        "h08v06",
+        "h09v04",
+        "h09v05",
+        "h09v06",
+        "h10v04",
+        "h10v05",
+        "h10v06",
+        "h11v04",
+        "h11v05",
+        "h12v04",
+        "h12v05",
+        "h13v04"
+    ]
+}
