@@ -18,7 +18,7 @@ We'd like you to develop a utility to download and store MODIS data.
 
 ### Considerations
 
-- You will need to use HTTP Basic authentication to authenticate with the server and download data. We'll give you credentials so you don't have to get your own.
+- You will need to use HTTP Basic authentication to authenticate with the server and download data. For convenience, we can give you credentials for this, or you can create your own account at the [USGS EarthData website](https://urs.earthdata.nasa.gov/users/new).
 - Your utility should allow the user to input a range of dates, the country to download data for, and the MODIS product to download data for. Please note down any usage instructions in your README.
 - The MODIS data we are interested in is indexed as follows: 
 
