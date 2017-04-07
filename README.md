@@ -62,7 +62,7 @@ In a follow-up interview, we'd like to discuss your response to this exercise an
 This is a design exercise.
 
 As one of the first data engineers at Aerial Intelligence, you will have a large impact on the design and implementation of our data infrastructure. We ingest data from numerous sources, including MODIS from the challenge above, and we want to make this data available to customers and to our own engineers and data scientists.
-
+ 
 We'd like you to write a design proposal for how you might design and implement data infrastructure for storing and representing the following data sources, given the desired use cases. You do not need to describe how the use cases are implemented - just describe how you might get the data to the consumer in a reasonable way.
 
 ### Sources
@@ -102,6 +102,6 @@ We'd like you to write a design proposal for how you might design and implement 
 
 ## Submission
 
-Please email us a document detailing your proposal as a `README.md` or a PDF. You might consider looking at some design proposal templates (like (this one from Rust)[https://github.com/rust-lang/rfcs/blob/master/0000-template.md]) for ideas on how to structure your proposal.
+Please email us a document detailing your proposal as a `README.md` or a PDF. You might consider looking at some design proposal templates (like [this one from Rust](https://github.com/rust-lang/rfcs/blob/master/0000-template.md)) for ideas on how to structure your proposal.
 
 As in exercise #1 above, we'd like to follow up with a chat about your proposal.
