@@ -12,7 +12,7 @@ We recommend reading through the entire README before starting.
 
 This is a software development exercise.
 
-One of our public satellite data sources is the MODIS (**MOD**erate Resolution **I**maging **S**pectroradiometer) family of satellites. Data for MODIS is hosted by the USGS on a [public US government site](https://e4ftl01.cr.usgs.gov). 
+One of our public satellite data sources is the [MODIS (**MOD**erate Resolution **I**maging **S**pectroradiometer)](https://lpdaac.usgs.gov/dataset_discovery/modis) family of satellites. Data for MODIS is hosted by the USGS on a [public US government site](https://e4ftl01.cr.usgs.gov). 
 
 We'd like you to develop a utility to download and store MODIS data. 
 
